@@ -42,6 +42,7 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 	<br>
 </body>
 </html>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 
