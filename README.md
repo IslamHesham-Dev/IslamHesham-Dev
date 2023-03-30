@@ -42,18 +42,17 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 </body>
 </html>
 
-<a href="[Your ID URL Link](https://www.linkedin.com/in/islam-hesham-34680a201/)">
-<img align="left" alt="Islam's LinkedIn" width="22px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ 
+<p align="left">
+<a href="https://twitter.com/islammheshm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islammheshm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/islam-hesham-34680a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-hesham-34680a201" height="30" width="40" /></a>
+<a href="https://medium.com/islamhesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="islamhesham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/islamhesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="islamhesham" height="30" width="40" /></a>
+</p>
 
-<a href="[Your ID URL Link](https://twitter.com/IslammHesham)">
-<img align="left" alt="Mitul | Twitter" width="22px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<a href="[Your ID URL Link ](https://medium.com/@IslamHesham)" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="22" width="22" />
-	<br>
 </a>
 	<!DOCTYPE html>
 <html>
