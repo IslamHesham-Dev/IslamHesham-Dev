@@ -5,15 +5,20 @@
 I'm Islam Hesham. Junior programmer and college student with a passion for tech and IT. Interested in cybersecurity and penetration testing. Always looking to learn and grow in the field.
 
 <a href="https://www.buymeacoffee.com/islamhk123v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
+	<style>
+		ul {
+			margin-top: 0;
+		}
+	</style>
 </head>
 <body>
-	<h2><span style="color: orange;">⚡</span> A quick introduction</h2>
+	<h1><span style="color: orange;">⚡</span> A quick introduction</h1>
 	<ul>
 		<li><span style="font-size: 1.5em;">🧑🏻‍🎓</span>I'm currently pursuing a Bachelor's degree in Computer Science, with a focus on cybersecurity, and am on track to graduate with honors.</li>
 		<li><span style="font-size: 1.5em;">🌱</span>My ultimate goal is to work in the field of cybersecurity and make a positive impact in the world by protecting individuals and organizations from online threats.</li>
@@ -23,4 +28,5 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 	</ul>
 </body>
 </html>
+
 
