@@ -31,19 +31,19 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 		<li><span style="font-size: 1.5em;">📕</span>I'm an avid reader of tech blogs and industry news, and always stay up-to-date on the latest developments in the field.</li>
 	</ul>
 	<hr>
-</body>
-</html>
-
+	
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Connect, Follow, Subscribe</title>
 	<meta charset="UTF-8">
 </head>
 <body>
-	<p>🤝Connect, Follow, Subscribe</p>
+	<h3>🤝Connect, Follow, Subscribe</h3>
 	<br>
 </body>
 </html>
+
 
 
 
