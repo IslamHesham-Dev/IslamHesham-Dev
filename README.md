@@ -21,10 +21,10 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 		<li><span style="font-size: 1.5em;">👩🏻‍💻</span>I have a passion for problem-solving, and love taking on challenging programming projects that push me to think outside the box.</li>
 		<li><span style="font-size: 1.5em;">📕</span>I'm an avid reader of tech blogs and industry news, and always stay up-to-date on the latest developments in the field.</li>
 	</ul>
-	<br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	<hr>
 </body>
 </html>
+
 
 
 
