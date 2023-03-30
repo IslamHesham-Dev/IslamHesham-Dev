@@ -11,14 +11,9 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 <html>
 <head>
 	<meta charset="UTF-8">
-	<style>
-		ul {
-			margin-top: 0;
-		}
-	</style>
 </head>
 <body>
-	<h1><span style="color: orange;">⚡</span> A quick introduction</h1>
+	<h3><span style="color: orange;">⚡</span> A quick introduction</h3>
 	<ul>
 		<li><span style="font-size: 1.5em;">🧑🏻‍🎓</span>I'm currently pursuing a Bachelor's degree in Computer Science, with a focus on cybersecurity, and am on track to graduate with honors.</li>
 		<li><span style="font-size: 1.5em;">🌱</span>My ultimate goal is to work in the field of cybersecurity and make a positive impact in the world by protecting individuals and organizations from online threats.</li>
@@ -28,5 +23,6 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 	</ul>
 </body>
 </html>
+
 
 
