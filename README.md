@@ -39,10 +39,21 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 </head>
 <body>
 	<h3>🤝Connect, Follow, Subscribe</h3>
-	<br>
 </body>
 </html>
-              
+
+<a href="[Your ID URL Link](https://www.linkedin.com/in/islam-hesham-34680a201/)">
+<img align="left" alt="Islam's LinkedIn" width="22px"
+src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="[Your ID URL Link](https://twitter.com/IslammHesham)">
+<img align="left" alt="Mitul | Twitter" width="22px"
+src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="[Your ID URL Link ](https://medium.com/@IslamHesham)" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="22" width="22" />
+</a>
               
 
 
