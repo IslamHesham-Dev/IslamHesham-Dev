@@ -8,7 +8,6 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Horizontal Line</title>
 	<meta charset="UTF-8">
 </head>
 <body>
@@ -16,7 +15,6 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 </body>
 </html>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!DOCTYPE html>
 <html>
