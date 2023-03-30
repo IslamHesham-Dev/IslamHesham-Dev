@@ -42,7 +42,6 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 	<br>
 </body>
 </html>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="islam-hesham-34680a201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/islam-hesham-34680a201?trk=profile-badge">Islam Hesham</a></div>
               
               
 
