@@ -44,7 +44,7 @@ I'm Islam Hesham. Junior programmer and college student with a passion for tech 
 
  
 <p align="left">
-<a href="https://twitter.com/islammheshm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islammhesham" height="30" width="40" /></a>
+<a href="https://twitter.com/islammheshm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IslammHesham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/islam-hesham-34680a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-hesham-34680a201" height="30" width="40" /></a>
 <a href="https://medium.com/islamhesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="islamhesham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/islamhesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="islamhesham" height="30" width="40" /></a>
